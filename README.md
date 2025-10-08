@@ -1,5 +1,6 @@
 # TCG-Probability-Calculator
 Personal project for computing hypergeometric probabilities of drawing combinations of cards in TCGs
+
 Further goals: Implement a GUI (learn how to use GUIs first)
 
 # Sources consulted:
